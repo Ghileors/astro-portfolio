@@ -2,8 +2,8 @@
 
 ## 1. Application Foundation
 
-- [ ] 1.1 Scaffold the Next.js App Router project with TypeScript and Tailwind CSS; verify dependencies install and the production build succeeds.
-- [ ] 1.2 Add the development, lint, test, and build commands to the project README; verify the documented commands match the package scripts.
+- [x] 1.1 Scaffold the Next.js App Router project with TypeScript and Tailwind CSS; verify dependencies install and the production build succeeds.
+- [x] 1.2 Add the development, lint, test, and build commands to the project README; verify the documented commands match the package scripts.
 
 ## 2. Design and Portfolio Content
 
